@@ -1,0 +1,43 @@
+_repo: The-Reform-of-Education_36762
+_version: 0.1.0
+alternative_title: La riforma dell'educazione. English
+contributor:
+  author_of_introduction:
+    agent_name: Croce, Benedetto
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '3007'
+    url: http://www.gutenberg.org/2009/agents/3007
+    wikipedia: http://en.wikipedia.org/wiki/Benedetto_Croce
+  translator:
+    agent_name: Bigongiari, Dino
+    birthdate: 1883
+    gutenberg_agent_id: '38458'
+    url: http://www.gutenberg.org/2009/agents/38458
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gentile, Giovanni
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '38457'
+    url: http://www.gutenberg.org/2009/agents/38457
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36762'
+  lccn: '22016364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Philosophy'
+- !lcsh 'Gentile, Giovanni, 1875-1944'
+- !lcc 'LB'
+- !lcsh 'Education'
+title: The Reform of Education
+url: http://www.gutenberg.org/ebooks/36762
